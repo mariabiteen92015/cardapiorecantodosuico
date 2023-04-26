@@ -1,0 +1,361 @@
+* {
+    margin: 0;
+}
+
+.boryespecial {
+    width: 100vw;
+    height: 175vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.boryespeciaal {
+    width: 100vw;
+    height: 115vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+header {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 20%;
+}
+
+.imglogo {
+    width: 100%;
+    height: 100%;
+}
+
+.botao {
+    width: 20%;
+    height: 5%;
+}
+
+.botaoo {
+    width: 100%;
+    height: 75%;
+}
+
+.voltar {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    font-size: 90%;
+}
+
+.imgcar {
+    width: 100%;
+    height: 75%;
+}
+
+.imgcarne {
+    width: 100%;
+    height: 75%;
+}
+
+.imgt {
+    width: 100%;
+    height: 75%;
+}
+
+.imgti {
+    width: 100%;
+    height: 100%;
+}
+
+.imgtira {
+    width: 100%;
+    height: 100%;
+}
+
+.imgso {
+    width: 100%;
+    height: 40%;
+}
+
+.imgsob {
+    width: 100%;
+    height: 30%;
+}
+
+.imgp {
+    width: 100%;
+    height: 75%;
+}
+
+.boryespeciall {
+    width: 100vw;
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.imggu {
+    width: 100%;
+    height: 40%;
+}
+
+.imgguar {
+    width: 100%;
+    height: 30%;
+}
+
+.imgce {
+    width: 100%;
+    height: 75%;
+}
+
+.imgre {
+    width: 100%;
+    height: 45%;
+}
+
+.imgco {
+    width: 100%;
+    height: 50%;
+}
+
+.imgcoq {
+    padding-left: 20%;
+    width: 60%;
+    height: 20%;
+}
+
+.imgdo {
+    width: 100%;
+    height: 60%;
+}
+
+.imgdos {
+    padding-top: 10%;
+    width: 100%;
+    height: 20%;
+}
+
+.imgdose {
+    padding-top: 5%;
+    width: 100%;
+    height: 20%;
+}
+
+
+.imgli {
+    width: 100%;
+    height: 65%;
+}
+
+.imglic {
+    width: 100%;
+    height: 25%;
+}
+
+.dicionario {
+    width: 100%;
+    height: 100%;
+}
+.dicionarioo {
+    width: 100%;
+    height: 50%;
+}
+.boryespeciallll {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.imgpo {
+    width: 100%;
+    height: 100%;
+}
+
+.imgpousada {
+    width: 100%;
+    height: 20%;
+    
+}
+
+.titulopou {
+    text-shadow: 1px 1px 0 #525252;
+    letter-spacing: 3px;
+    font-size: 170%;
+    text-align: center;
+}
+
+.cerv {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+}
+
+.refr {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+}
+
+.coqu {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+}
+
+.dose {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+}
+
+.lico {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+}
+
+
+.tiragos {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+}
+
+.peix {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+}
+
+.carn {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+}
+
+.guar {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+}
+
+.sobr {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+}
+
+.bebi {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+}
+
+.prod {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+
+}
+
+.prom {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+}
+
+.pous {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+}
+
+.dici {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+}
+
+.even {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+}
+
+.quem {
+    background-color: rgb(255, 255, 255);
+    color: rgb(218, 0, 0);
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    font-size: 100%;
+}
+
+.wapp {
+    padding-left: 75%;
+    width: 25%;
+    height: 12%;
+}
